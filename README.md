@@ -1,0 +1,1 @@
+I have kept the rest of the 100 days project private due to the nature of emails and api keys that could be exposed.  the project was to learn python and i found some very bad cybersecurity practices, maybe this is why we are still getting bad code being writen.
